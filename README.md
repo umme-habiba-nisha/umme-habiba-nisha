@@ -7,3 +7,5 @@
 - 💬 Ask me about C 🚀
 - 📫 How to reach me: Unreachable 🤷‍♀️
 - ⚡ Fun fact: Nothing 😁
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
