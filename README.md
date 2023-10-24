@@ -8,4 +8,4 @@
 - 📫 How to reach me: Unreachable 🤷‍♀️
 - ⚡ Fun fact: Nothing 😁
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
