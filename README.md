@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **C 🚀**
 - 👯 I’m looking to collaborate on **C 🚀**
 - 🤝 I’m looking for help with **C 🚀**
-- 👨‍💻 All of my projects are available at [https://github.com/umme-habiba-nisha](https://github.com/umme-habiba-nisha)
+- 👨‍💻 All of my projects are available at [https://github.com/umme-habiba-nisha](umme-habiba-nisha)
 - 💬 Ask me about **C 🚀**
 - 📫 How to reach me **Unreachable 🤷🏻‍♀️**
 - ⚡ Fun fact **👇🏻😁**
