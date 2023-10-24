@@ -20,23 +20,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umme-habiba-nisha" alt="umme-habiba-nisha" /></a> </p>
 
 - 🔭 I’m currently working on **C 🚀**
-
 - 🌱 I’m currently learning **C 🚀**
-
 - 👯 I’m looking to collaborate on **C 🚀**
-
 - 🤝 I’m looking for help with **C 🚀**
-
 - 👨‍💻 All of my projects are available at [https://github.com/umme-habiba-nisha](https://github.com/umme-habiba-nisha)
-
-- 📝 I regularly write articles on [Not now ☹️](Not now ☹️)
-
 - 💬 Ask me about **C 🚀**
-
 - 📫 How to reach me **Unreachable 🤷🏻‍♀️**
-
 - ⚡ Fun fact **👇🏻😁**
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
+- ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
