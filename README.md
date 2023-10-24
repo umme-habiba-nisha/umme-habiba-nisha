@@ -1,17 +1,3 @@
-<!--
-### Hi there 👻
-
-- 🔭 I’m currently working on uni projects
-- 🌱 I’m currently learning C 🚀
-- 👯 I’m looking to collaborate on C 🚀
-- 🤔 I’m looking for help with C 🚀
-- 💬 Ask me about C 🚀
-- 📫 How to reach me: Unreachable 🤷🏻‍♀️
-- ⚡ Fun fact: 👇🏻😁
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
--->
-
 <h1 align="center">Hi 👻, I'm Umme Habiba Nisha</h1>
 <h3 align="center">Passionated Programmer</h3>
 
@@ -36,6 +22,6 @@
 <br />
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umme-habiba-nisha&show_icons=true&locale=en&layout=compact" alt="umme-habiba-nisha" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umme-habiba-nisha&show_icons=true&locale=en" alt="umme-habiba-nisha" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umme-habiba-nisha&show_icons=true&locale=en&layout=compact" alt="umme-habiba-nisha" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=umme-habiba-nisha&show_icons=true&locale=en" alt="umme-habiba-nisha" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umme-habiba-nisha&" alt="umme-habiba-nisha" /></p>
